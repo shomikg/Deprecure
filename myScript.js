@@ -5,7 +5,8 @@ var sentences = ["You're wonderful today!", "You're sooooo fabulous!", "I hope y
 "Happiness is a choice", "I don’t want the sadness to spoil your beautiful face.", "Cheer up, you’re captivating!", 
 "Pull yourself together and let’s rock this world!", "If he has left you, then he is blind and crazy, you’ll get through it.", 
 "You must save the world and smile!", "I am so blessed to have such an amazing friend like you.",
-"You’re stronger than you think!"," Now the sky is overcast, but soon the sun will appear."]
+"You’re stronger than you think!"," Now the sky is overcast, but soon the sun will appear.", "I know you question love as much as you believe in it, but you should know you deserve it", 
+                "It takes a lot to have such a beautiful soul as you have", "Someone says you're not pretty enough, needs to be silenced"  ]
 
 var button = document.getElementById("clickme");
 var p = document.getElementById("click");
